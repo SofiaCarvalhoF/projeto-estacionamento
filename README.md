@@ -54,7 +54,7 @@ Tela principal <br> <br>
 
 ## 👤 Autor(es)
 
-- Nome do aluno
+- Sofia Carvalho Ferreira
 
 ---
 
